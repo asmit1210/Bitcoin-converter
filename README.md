@@ -16,3 +16,9 @@ This project is a web-based currency converter that converts any currency value 
 - A web browser
 - Internet connection
 
+##Code Structure
+
+-index.html: Contains the HTML structure of the application.
+-style.css: Contains the CSS styles for the application, including dynamic background styles.
+-app.js: Contains the JavaScript code for handling user input, making API requests, and updating the UI.
+-codes.js:contains the country codes. 
